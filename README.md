@@ -30,10 +30,7 @@ bash <(curl -s https://raw.githubusercontent.com/Wyn213/Interstellar-Auto-Creato
 - click on a random log and find "Authorization" (if its not there find a diffrent log)
 - copy it (dont copy "Bearer" at the start
 
-## Running on Replit
+## Running on Windows (10/11)
 
-- make a bash repl
-- then run this script
-```bash
-soon
-```
+💀install WSL (Ubuntu is preferred)
+- install the prerequisites
