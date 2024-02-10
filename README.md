@@ -7,6 +7,12 @@ blah blah blah i'll add this soon
 
 ## get your Auth Bearar
 
+## prerequisites
+
+- jq
+- docker
+- curl (listen its sometimes not installed
+
 ### with inspect element/Eruda+termoxy/interstellar
 - login to docker with the account to create the repos on
 - open inspect element and go to network
