@@ -29,3 +29,11 @@ bash <(curl -s https://raw.githubusercontent.com/Wyn213/Interstellar-Auto-Creato
 - open eruda and go to network tab
 - click on a random log and find "Authorization" (if its not there find a diffrent log)
 - copy it (dont copy "Bearer" at the start
+
+## Running on Replit
+
+- make a bash repl
+- then run this script
+```bash
+soon
+```
