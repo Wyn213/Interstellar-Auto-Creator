@@ -22,11 +22,4 @@ blah blah blah i'll add this soon
 - login into docker (you can't use google or github)
 - open eruda and go to network tab
 - click on a random log and find "Authorization" (if its not there find a diffrent log)
-- copy it (dont copy "Bearer" at the start)
-
-
-  <html>
-    <body>
-      <h1>test</h1>
-    </body>
-  </html>
+- copy it (dont copy "Bearer" at the start
