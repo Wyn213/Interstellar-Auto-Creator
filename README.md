@@ -1,8 +1,8 @@
 # Interstellar-Auto-Creator
 
 # execute code
-```
-blah blah blah i'll add this soon
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Wyn213/Interstellar-Auto-Creator/main/main.sh)
 ```
 
 ## get your Auth Bearar
