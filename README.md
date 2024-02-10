@@ -5,7 +5,7 @@
 blah blah blah i'll add this soon
 ```
 
-## get your JWT
+## get your Auth Bearar
 
 ### with inspect element
 - login to docker with the account to create the repos on
@@ -14,3 +14,4 @@ blah blah blah i'll add this soon
 - will look kinda like this <br><img width="383" alt="Screenshot 2024-02-09 164816" src="https://github.com/Wyn213/Interstellar-Auto-Creator/assets/156633596/9ac0d4d9-fc25-4d18-8e29-5ddf604d1a38">
 - click on the little input box <br>![image](https://github.com/Wyn213/Interstellar-Auto-Creator/assets/156633596/46607b12-ed5b-4ab1-8eb4-68217b47d9ef)
 - type "repositories/"
+- and you should see on with your "username?page_size" on it click it and find the "Authorization" and copy that (dont copy the "Bearer" at the start its handled in the script)
