@@ -2,16 +2,17 @@
 
 # execute code
 ```bash
+docker login
 bash <(curl -s https://raw.githubusercontent.com/Wyn213/Interstellar-Auto-Creator/main/main.sh)
 ```
-
-## get your Auth Bearar
 
 ## prerequisites
 
 - jq
 - docker
 - curl (listen its sometimes not installed
+
+## get your Auth Bearar
 
 ### with inspect element/Eruda+termoxy/interstellar
 - login to docker with the account to create the repos on
